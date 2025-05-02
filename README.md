@@ -14,7 +14,7 @@ A Spring Boot application for calculating financial fees based on transaction ty
 - Java 17+
 - Spring Boot 3.x
 - Maven
-- [Add any other technologies you used]
+
 
 ## Getting Started
 
@@ -22,7 +22,6 @@ A Spring Boot application for calculating financial fees based on transaction ty
 
 - Java 17 or higher
 - Maven 3.6.3 or higher
-- [Any other prerequisites]
 
 ### Installation
 
